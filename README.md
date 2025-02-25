@@ -1,7 +1,7 @@
 
 <h2 align="left">Olá 👋! Meu nome é Nathalie, bem vind@s ao meu portfólio!!</h2>
 
-<img align="right" width="25%" src="https://github.com/xgeilahtan/xgeilahtan/blob/main/9lgfcm.gif" alt="Marton Lederer" />
+<img align="right" width="20%" src="https://github.com/xgeilahtan/xgeilahtan/blob/main/9lgfcm.gif" alt="Marton Lederer" />
 
 <h4 align ="left">
 Faço Bacharelado em Engenharia da Computação no Instituto Federal de São Paulo - Campus Guarulhos
