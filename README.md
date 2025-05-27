@@ -10,10 +10,10 @@ Faço Bacharelado em Engenharia da Computação no Instituto Federal de São Pau
 Uma das minha paixões é fazer projetos de desenvolvimento de sistemas e programação front-end!
 </h4>
 <h4 align ="left">
-Atualmente estou aprendendo Java, PHP, Python e Power BI.
+Atualmente estou aprendendo Angular, Java, PHP e Python.
 </h4>
 <h4 align ="left">
-Estou procurando um cargo de Estágio na área de Engenharia da Computação.
+Trabalho como Estagiária Front-End no Itaú. Utilizo Angular, HTML, CSS e JavaScript.
 </h4>
 
 ###
