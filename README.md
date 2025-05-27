@@ -27,6 +27,7 @@ Trabalho como Estagiária Front-End no Itaú. Utilizo Angular, HTML, CSS e JavaS
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" /></a>
