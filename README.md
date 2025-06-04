@@ -32,17 +32,17 @@ Trabalho como Estagiária Front-End no Itaú. Utilizo Angular, HTML, CSS e JavaS
     <img src="https://skillicons.dev/icons?i=html" />
   </a> &nbsp<a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=css" />
-  </a><a><img src="https://skillicons.dev/icons?i=vscode" /></a><a href="https://www.w3schools.com/bootstrap/">
+  </a>&nbsp<a><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp<a href="https://www.w3schools.com/bootstrap/">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a><a href="https://www.w3schools.com/angular/">
+  </a>&nbsp<a href="https://www.w3schools.com/angular/">
     <img src="https://skillicons.dev/icons?i=angular" />
-  </a><a><img src="https://skillicons.dev/icons?i=eclipse" /></a><a><img src="https://skillicons.dev/icons?i=figma" /></a><a><img src="https://skillicons.dev/icons?i=git" /></a><a><img src="https://skillicons.dev/icons?i=github" /></a><a><img src="https://skillicons.dev/icons?i=laravel" /></a><a><img src="https://skillicons.dev/icons?i=mysql" /></a><a href="https://www.w3schools.com/php/">
+  </a>&nbsp<a><img src="https://skillicons.dev/icons?i=eclipse" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=figma" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=git" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=laravel" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp<a href="https://www.w3schools.com/php/">
     <img src="https://skillicons.dev/icons?i=php" />
-  </a><a href="https://www.w3schools.com/python/">
+  </a>&nbsp<a href="https://www.w3schools.com/python/">
     <img src="https://skillicons.dev/icons?i=py" />
-  </a><a href="https://www.w3schools.com/sass/">
+  </a>&nbsp<a href="https://www.w3schools.com/sass/">
     <img src="https://skillicons.dev/icons?i=sass" />
-  </a><a><img src="https://skillicons.dev/icons?i=visualstudio" /></a><a><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  </a>&nbsp<a><img src="https://skillicons.dev/icons?i=visualstudio" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
 <div align="center">
