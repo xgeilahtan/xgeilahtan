@@ -30,7 +30,7 @@ Trabalho como Estagiária Front-End no Itaú. Utilizo Angular, HTML, CSS e JavaS
 <p align="left">
   <a href="https://www.w3schools.com/html/ ">
     <img src="https://skillicons.dev/icons?i=html" />
-  </a> @nbspace<a href="https://www.w3schools.com/css/">
+  </a> &nbsp<a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=css" />
   </a><a><img src="https://skillicons.dev/icons?i=vscode" /></a><a href="https://www.w3schools.com/bootstrap/">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
