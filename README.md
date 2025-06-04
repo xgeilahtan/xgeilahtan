@@ -30,19 +30,19 @@ Trabalho como Estagiária Front-End no Itaú. Utilizo Angular, HTML, CSS e JavaS
 <p align="left">
   <a href="https://www.w3schools.com/html/ ">
     <img src="https://skillicons.dev/icons?i=html" />
-  </a> &nbsp<a href="https://www.w3schools.com/css/">
+  </a> &nbsp <a href="https://www.w3schools.com/css/">
     <img src="https://skillicons.dev/icons?i=css" />
-  </a>&nbsp<a><img src="https://skillicons.dev/icons?i=vscode" /></a>&nbsp<a href="https://www.w3schools.com/bootstrap/">
+  </a> &nbsp <a><img src="https://skillicons.dev/icons?i=vscode" /></a> &nbsp <a href="https://www.w3schools.com/bootstrap/">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a>&nbsp<a href="https://www.w3schools.com/angular/">
+  </a> &nbsp <a href="https://www.w3schools.com/angular/">
     <img src="https://skillicons.dev/icons?i=angular" />
-  </a>&nbsp<a><img src="https://skillicons.dev/icons?i=eclipse" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=figma" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=git" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=laravel" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=mysql" /></a>&nbsp<a href="https://www.w3schools.com/php/">
+  </a> &nbsp <a><img src="https://skillicons.dev/icons?i=eclipse" /></a> &nbsp <a><img src="https://skillicons.dev/icons?i=figma" /></a> &nbsp <a><img src="https://skillicons.dev/icons?i=git" /></a> &nbsp <a><img src="https://skillicons.dev/icons?i=github" /></a> &nbsp <a><img src="https://skillicons.dev/icons?i=laravel" /></a> &nbsp <a><img src="https://skillicons.dev/icons?i=mysql" /></a> &nbsp <a href="https://www.w3schools.com/php/">
     <img src="https://skillicons.dev/icons?i=php" />
-  </a>&nbsp<a href="https://www.w3schools.com/python/">
+  </a> &nbsp <a href="https://www.w3schools.com/python/">
     <img src="https://skillicons.dev/icons?i=py" />
-  </a>&nbsp<a href="https://www.w3schools.com/sass/">
+  </a> &nbsp <a href="https://www.w3schools.com/sass/">
     <img src="https://skillicons.dev/icons?i=sass" />
-  </a>&nbsp<a><img src="https://skillicons.dev/icons?i=visualstudio" /></a>&nbsp<a><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  </a> &nbsp <a><img src="https://skillicons.dev/icons?i=visualstudio" /></a> &nbsp <a><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
 <div align="center">
