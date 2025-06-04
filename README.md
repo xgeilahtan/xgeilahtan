@@ -42,8 +42,6 @@ Trabalho como Estagiária Front-End no Itaú. Utilizo Angular, HTML, CSS e JavaS
     <img src="https://skillicons.dev/icons?i=py" />
   </a><a href="https://www.w3schools.com/sass/">
     <img src="https://skillicons.dev/icons?i=sass" />
-  </a><a href="https://www.w3schools.com/mysql/">
-    <img src="https://skillicons.dev/icons?i=mysql" />
   </a><a><img src="https://skillicons.dev/icons?i=visualstudio" /></a><a><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
