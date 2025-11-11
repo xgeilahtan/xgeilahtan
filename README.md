@@ -11,9 +11,6 @@ Uma das minha paixões é fazer projetos de desenvolvimento de sistemas e progra
 <h4 align ="left">
 Atualmente estou aprendendo Angular, Java, PHP e Python.
 </h4>
-<h4 align ="left">
-Trabalho como Estagiária Front-End no Itaú. Utilizo Angular, HTML, CSS e JavaScript.
-</h4>
 
 ###
 
