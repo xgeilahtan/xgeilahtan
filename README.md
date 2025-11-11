@@ -47,12 +47,12 @@ Minha paixão é o desenvolvimento de sistemas (Front e Back) e estou sempre apr
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=insomnia" alt="Insomnia" />
   <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
   <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
 </p>
 
 ## 🌎 Idiomas
