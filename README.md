@@ -1,14 +1,10 @@
-<img align="right" width="25%" src="https://github.com/xgeilahtan/xgeilahtan/blob/main/9lgfcm.gif" alt="GIF animado" />
-
 ## Olá 👋! Meu nome é Nathalie.
-
+<img align="right" width="16%" src="https://github.com/xgeilahtan/xgeilahtan/blob/main/9lgfcm.gif" alt="GIF animado" />
 Seja bem-vind@ ao meu portfólio!
 
 Sou estudante de **Engenharia da Computação** no Instituto Federal de São Paulo (IFSP) - Campus Guarulhos. Minha paixão é o desenvolvimento de sistemas, com foco especial em front-end.
 
 Atualmente, estou aprofundando meus conhecimentos em **Angular, Java (Spring), PHP (Laravel) e Python.**
-
----
 
 ## 📊 Minhas Estatísticas
 
@@ -16,8 +12,6 @@ Atualmente, estou aprofundando meus conhecimentos em **Angular, Java (Spring), P
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=xgeilahtan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=xgeilahtan&locale=pt-br&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
 </div>
-
----
 
 ## 🛠️ Linguagens e Ferramentas
 
@@ -50,12 +44,10 @@ Atualmente, estou aprofundando meus conhecimentos em **Angular, Java (Spring), P
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </p>
 
----
-
 ## 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/nathalie-gonçalves-xavier-67a05b226">
+  <a href="https://www.linkedin.com/in/nathalie-goncalves-xavier">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
