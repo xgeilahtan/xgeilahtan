@@ -8,13 +8,15 @@ Recentemente, atuei como **Estagiária Front-End no Itaú Unibanco**, onde traba
 
 Minha paixão é o desenvolvimento de sistemas (Front e Back) e estou sempre aprofundando meus conhecimentos em **Java (Spring), PHP (Laravel) e Python.**
 
-## 📊 Minhas Estatísticas
+## 📊 Minhas Estatísticas e Foco
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=xgeilahtan&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=xgeilahtan&locale=pt-br&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathaliegx&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliegx&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Langs" />
 </div>
-
 ## 🛠️ Linguagens e Ferramentas
 
 <p align="left">
