@@ -51,8 +51,8 @@ Minha paixão é o desenvolvimento de sistemas (Front e Back) e estou sempre apr
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats-two-weld-82.vercel.app/api?username=xgeilahtan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-two-weld-82.vercel.app/api/top-langs/?username=xgeilahtan&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats-two-weld-82.vercel.app/api?username=xgeilahtan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-two-weld-82.vercel.app/api/top-langs/?username=xgeilahtan&layout=compact&theme=dracula"/>
 </div>
 
 ## 🌎 Idiomas
