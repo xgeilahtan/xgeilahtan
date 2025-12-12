@@ -48,6 +48,13 @@ Minha paixão é o desenvolvimento de sistemas (Front e Back) e estou sempre apr
   <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
 </p>
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-two-weld-82.vercel.app/api?username=xgeilahtan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-two-weld-82.vercel.app/api/top-langs/?username=xgeilahtan&layout=compact&theme=dracula"/>
+</div>
+
 ## 🌎 Idiomas
 
 * **Português:** Nativo
